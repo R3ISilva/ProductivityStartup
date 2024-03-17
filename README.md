@@ -5,6 +5,8 @@
 
 # Future Features
 1. Keeps track of shortcuts and listen to them, reminding the user of the unused shortcuts.
+2. Shortcut to write notes fast
+2.1 Organize notes automatically
   
 # Seealso
 
