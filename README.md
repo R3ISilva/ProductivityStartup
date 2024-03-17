@@ -8,4 +8,7 @@
   
 # Seealso
 
-Keyboard layers ahk https://www.reddit.com/r/AutoHotkey/comments/rok8zz/implement_keyboard_layers_via_ahk/
+Keyboard layers ahk 
+https://www.reddit.com/r/AutoHotkey/comments/rok8zz/implement_keyboard_layers_via_ahk/
+https://github.com/ogeesan/capslock-layer-autohotkey
+https://github.com/stevep99/keyboard-tweaks
