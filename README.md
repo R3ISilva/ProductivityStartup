@@ -5,7 +5,7 @@
 
 # Future Features
 1. Keeps track of shortcuts and listen to them, reminding the user of the unused shortcuts.
-2. Shortcut to write notes fast
+2. Shortcut to write notes fast with interface (maybe something in electron with the gpt one)
 2.1 Organize notes automatically
   
 # Seealso
